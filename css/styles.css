@@ -56,6 +56,14 @@ p {
     color: #222831;
 }
 
+.footer-link {
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: none;
+}
+
 .intro {
   width: 30%;
   margin: auto;
